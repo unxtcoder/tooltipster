@@ -8,7 +8,7 @@ Default css + js files = 10Kb gzipped.
 
 A reminder of options/methods lies below. For detailed documentation, visit http://calebjacob.github.io/tooltipster/
 
-Standard options
+Standard option
 ----------------
 
 animation  
